@@ -1,5 +1,6 @@
 # 115 人工智慧期中報告 Googl Colab跑目標追蹤的test程式碼
 組員:11224143 蕭悅媗 11222229 蘇家丞
+Google Colab:https://colab.research.google.com/drive/1BcQqSGKS-QYPNyM6LT5KQ1WlJiA-RyZr?usp=sharing
 ## 一、實驗目的與背景
 本次期中報告旨在透過 Google Colab 雲端運算環境與 GPU 硬體加速，實作並復現視覺目標追蹤（Visual Object Tracking, VOT）演算法（如 SiamFC++ 等主流追蹤模型）的測試（Test）程式碼。由於多數深度學習視覺模型高度依賴特定的相依套件與編譯環境，本次實驗著重於解決 Colab 雲端環境中的相依性衝突、環境設定與套件編譯問題。
 ## 二、執行步驟
